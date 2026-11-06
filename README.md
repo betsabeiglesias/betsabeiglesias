@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Betsabé Iglesias
 
-I'm currently studying software development at 42 Urduliz, where I'm focused on C, algorithms, and systems programming. With a strong background in finance and data analysis, I approach problems with both a technical and strategic mindset. I'm also expanding into full-stack development, working with JavaScript and React to build practical, user-focused solutions.
+Industrial Software Developer, building and deploying Industry 4.0 solutions: plant data acquisition, OT/IT integration and ML for predictive maintenance and quality control. I work mostly with Python, Linux, Bash and Docker.
 
 
 ## 🔗 Connect with me
